@@ -1,0 +1,16 @@
+# Environment variables and secrets
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Alert state
+alert_state.txt
+
+# Editor files
+.vscode/
+.idea/
